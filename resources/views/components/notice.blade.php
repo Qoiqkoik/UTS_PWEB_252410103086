@@ -1,0 +1,3 @@
+@if ($message)
+    <div class="notice" role="status">{{ $message }}</div>
+@endif
