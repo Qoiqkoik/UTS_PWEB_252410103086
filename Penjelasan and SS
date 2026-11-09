@@ -1,0 +1,21 @@
+Screenshot
+<img width="1440" height="895" alt="Screenshot 2026-11-09 at 23 38 13" src="https://github.com/user-attachments/assets/3c684d3d-8e45-4bf7-977b-12ba25ff4acc" />
+<img width="1440" height="895" alt="Screenshot 2026-11-09 at 23 38 43" src="https://github.com/user-attachments/assets/143cca0f-f036-4761-a9e6-141decd0f2fd" />
+<img width="1440" height="895" alt="Screenshot 2026-11-09 at 23 39 11" src="https://github.com/user-attachments/assets/67953c15-7fdf-4db5-a643-729ee746d075" />
+
+Penjelasan web aku ini
+Web yang aku buat ini adalah portal pemain Persela Lamongan. 
+Di web ini ada halaman login, dashboard, profil pemain, dan halaman pengelolaan skuad. 
+Aku memilih tema sepak bola supaya tampilannya lebih menarik dan sesuai dengan klub Persela Lamongan.
+
+Setelah login, nama pemain akan diteruskan ke halaman dashboard dan profil. 
+Di dashboard, ada informasi pemain, seperti nomor punggung dan statistik. 
+Halaman profil menampilkan data pemain, sedangkan halaman pengelolaan menampilkan daftar pemain dalam bentuk list.
+
+Web ini dibuat menggunakan Laravel dan Blade, dengan pola MVC. 
+Route mengatur alamat halaman, Controller menyiapkan data, lalu View menampilkan datanya.
+Daftar pemain dikirim dari Controller dan ditampilkan menggunakan perulangan @foreach. 
+Data web ini hanya simulasi, jadi tidak menggunakan database atau fitur CRUD.
+
+Untuk tampilannya, aku menggunakan warna putih dan ice blue dengan efek liquid glass. 
+Web ini juga memiliki navbar dan footer sebagai komponen supaya tampilannya lebih konsisten.
